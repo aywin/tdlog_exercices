@@ -11,7 +11,7 @@ Example of code using the class: i = Item(10, 20)
 class Item:
     def __init__(self, price, weight):
         self.price = price
-        self.weight = weight
+        self.weight= weight
 
 # Exemple d'utilisation
 i = Item(10, 20)
